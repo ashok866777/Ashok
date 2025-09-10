@@ -204,7 +204,7 @@
     
   </div>
   <p>UG student </p>
- input type="file"id="fileinput"aCcept="image/*" style="display:none">
+<inputtype="file"file input accepte image/*" style="display:none">
   <busectionclick="showModal()">Change Profile</button>
 </header>
 
